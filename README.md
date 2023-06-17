@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codeconjure
+- 👋 Hi, I’m @Codeconjurers
 - 👀 I’m interested in Coding/Software and Mobile App Development
 - 🌱 I’m currently learning MAD
 - 💞️ I’m looking to collaborate on Github
